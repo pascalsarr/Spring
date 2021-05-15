@@ -5,6 +5,4 @@
 # Fonctionnalités:
 
      
-     
-   
-   ![wx](https://user-images.githubusercontent.com/39752128/118377923-ceedbd00-b5bf-11eb-92de-daa6e7024873.JPG)
+        ![Capture1](https://user-images.githubusercontent.com/39752128/118377968-fd6b9800-b5bf-11eb-982d-797b1eb9bf8d.JPG)
