@@ -7,6 +7,5 @@
         2.  CRUD Operations like
         
      
-     
-                   ![wx](https://user-images.githubusercontent.com/39752128/118377627-e0ce6080-b5bd-11eb-982e-9cf9ede7cae7.JPG)
- 
+                     !![wx](https://user-images.githubusercontent.com/39752128/118377734-a618f800-b5be-11eb-9c10-e5643adf7086.JPG)
+ [alt text]
