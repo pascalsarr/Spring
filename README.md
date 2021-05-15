@@ -4,6 +4,16 @@
   
 # Fonctionnalités:
 
+
+Architecture de l application :
+
+![Architecture](https://user-images.githubusercontent.com/39752128/118378378-00b45300-b5c3-11eb-8ed7-05b171ad6a56.JPG)
+
+
+
+
+
+
 ![Capture1](https://user-images.githubusercontent.com/39752128/118378018-52a7a980-b5c0-11eb-9ef2-c9ace757f84c.JPG)
 
 
